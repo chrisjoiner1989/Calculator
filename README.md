@@ -9,7 +9,6 @@ This project performs basic arithmetic operations like addition, subtraction, mu
 
 - Perform basic arithmetic operations (+, −, ×, ÷)
 - Clear and delete buttons for easy corrections
-- Responsive design that works on both desktop and mobile
 - User-friendly layout with simple styling
 
 ---
